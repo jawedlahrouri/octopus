@@ -1,3 +1,5 @@
+[![Academic Year](https://img.shields.io/badge/Epitech-Tek2-green?style=for-the-badge&logo=epitech&logoColor=white)](https://www.epitech.eu/)
+
 # Octopus Project (B-DOP-400)
 
 This repository contains the Ansible infrastructure for the Octopus project.
